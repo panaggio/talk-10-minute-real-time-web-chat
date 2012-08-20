@@ -1,0 +1,16 @@
+{
+  "name": "10-minute realtime web chat",
+  "description": "This lightning talk shows a very small yet powerful way of implementing a real time web chat using Node.js, Express and Faye.",
+  "sections": [
+    { "section": "title" },
+
+    { "section": "about_me" },
+
+    { "section": "hands_on" },
+
+    { "section": "about_me" },
+
+    { "section": "end" },
+    { "section": "title" }
+  ]
+}
