@@ -51,10 +51,6 @@ saw a huge mistake of mine? Want to see improvements on it?
 
 You may want to:
 
-**Please let me know, to help this work get better! :)**
-
-You may want to:
-
 - send me an e-mail: [panaggio.ricardo@gmail.com](mailto:panaggio.ricardo@gmail.com)
 - send me a tweet: [@panaggio](https://twitter.com/panaggio)
 - send me a message via github:
