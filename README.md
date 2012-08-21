@@ -3,7 +3,7 @@
 This is the source code of the slides I used for my "10-minute realtime web
 chat" lightning talk in the following events:
 
-  - [Caipira Ágil](http://caipiraagil.com/)
+  - 2012/08/18: [Caipira Ágil](http://caipiraagil.com/)
 
 ## Usage #
 
