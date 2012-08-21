@@ -11,7 +11,7 @@ If you want to run this presentation, you should first get it from Github
 and then run the ShowOff server:
 
     $ git clone https://github.com/panaggio/talk-10-minute-real-time-web-chat.git
-    $ cd talk-html5
+    $ cd talk-10-minute-real-time-web-chat
     $ showoff serve
 
 Then you should be able to go to
